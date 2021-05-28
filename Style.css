@@ -1,0 +1,44 @@
+.container{
+    border: 3px solid grey;
+    padding: 10px 14px;
+    margin: 10px auto;
+    display: inline-block;
+    font-size: 17px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.App{
+    width: 980px;
+    margin: 0px auto;
+}
+.btn{
+    padding: 8px 20px;
+    border-radius: 5px;
+    border: 1px solid black;
+    background-color: cadetblue;
+    color: white;
+    font-size: 15px;
+    margin: 10px 5px;
+}
+.p{
+    margin:5px 5px;
+}
+.head{
+font-Style:'italic';
+ margin:5px 5px;
+
+}
+.btn1{
+    position: absolute;
+    right:202px;
+    top:3.5vh;
+    padding: 8px 20px;
+    border-radius: 5px;
+    border: 1px solid black;
+    background-color:rgb(19, 18, 18);
+    color: white;
+    font-size: 15px;
+    margin: 10px 5px;
+    border:1px solid white;
+}
+
